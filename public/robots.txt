@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Disallow: /api/
+Disallow: /locales/
+
+# https://platform.openai.com/docs/gptbot
+User-agent: GPTBot
+Disallow: /
+
+# Host
+Host: https://valorforge.vercel.app
+
+# Sitemaps
+Sitemap: https://valorforge.vercel.app/sitemap.xml
