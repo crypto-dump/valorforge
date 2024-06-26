@@ -1,4 +1,3 @@
-export * from './Bookmark/Bookmark'
 export * from './ContactMe/ContactMe'
 export * from './Footer/Footer'
 export * from './Header/Header'

@@ -41,22 +41,22 @@ export const contributions: ContributionProps[] = [
     },
   },
   {
-    user: 'dashincubator',
-    repository: 'dash-incubator-app',
+    user: 'dash',
+    repository: 'incubator-app',
     role: {
       label: 'contributor',
-      color: 'orange',
+      color: 'cyan',
     },
     githubUrl: 'https://github.com/dashincubator/dash-incubator-app',
     description: {
       en: 'Dash Incubator is an open-source app that connects users who want to earn rewards for working together to improve the Dash cryptocurrency.',
       fr: 'Dash Incubator est une application open source qui connecte les utilisateurs qui souhaitent gagner des récompenses pour avoir travaillé ensemble pour améliorer la crypto-monnaie Dash.',
     },
-    topics: ['dash', 'dash incubator', 'cryptocurrency', 'dao'],
+    topics: ['dash', 'cryptocurrency', 'dao'],
     language: {
       name: 'Javascript',
       icon: SiJavascript,
-      color: '#F7DF1E',
+      color: '#0739AE',
     },
   },
 ]

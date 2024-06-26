@@ -19,18 +19,4 @@
         <lastmod>2022-03-04T01:47:41.261Z</lastmod>
         <xhtml:link rel="alternate" hreflang="en" href="https://valorforge.vercel.app" />
     </url>
-    <url>
-        <loc>https://valorforge.vercel.app/bookmarks</loc>
-        <changefreq>hourly</changefreq>
-        <priority>0.8</priority>
-        <lastmod>2022-03-04T01:47:41.261Z</lastmod>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://valorforge.vercel.app/fr/bookmarks" />
-    </url>
-    <url>
-        <loc>https://valorforge.vercel.app/fr/bookmarks</loc>
-        <changefreq>hourly</changefreq>
-        <priority>0.8</priority>
-        <lastmod>2022-03-04T01:47:41.261Z</lastmod>
-        <xhtml:link rel="alternate" hreflang="en" href="https://valorforge.vercel.app/bookmarks" />
-    </url>
 </urlset>

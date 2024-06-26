@@ -5,7 +5,6 @@ import { NavItem, type NavItemProps } from './NavItem'
 const navItems: Omit<NavItemProps, 'onClose'>[] = [
   { name: 'home', href: '/' },
   { name: 'projects', href: '/#projects' },
-  { name: 'bookmarks', href: '/bookmarks' },
   { name: 'contact', href: '/#contact' },
 ]
 
