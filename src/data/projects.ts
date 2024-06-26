@@ -97,7 +97,7 @@ export const projects: Project[] = [
       en: 'HoneyBook is a clientflow management platform for independent service-based businesses.',
       fr: `HoneyBook est une plateforme de gestion de flux clients pour les entreprises de services indépendantes.`,
     },
-    image: { src: NetVRKImage },
+    image: { src: HoneybookImage },
     technologies: [
       { name: 'React', icon: SiReact, color: '#61DAFB' },
       { name: 'MobX', icon: SiMobx, color: '#DD5C0F' },
