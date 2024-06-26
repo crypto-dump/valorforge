@@ -77,6 +77,7 @@ export const projects: Project[] = [
       fr: `Network est une plate-forme de réalité virtuelle partagée spécialisée dans la blockchain et les jeux et dotée d'un générateur de monde virtuel breveté.`,
     },
     image: { src: NetVRKImage },
+    homepage: 'https://netvrk.co',
     technologies: [
       { name: 'React', icon: SiReact, color: '#61DAFB' },
       { name: 'PostgreSQL', icon: SiPostgresql, color: '#336791' },
@@ -93,6 +94,7 @@ export const projects: Project[] = [
   {
     id: '3',
     title: 'Honeybook',
+    homepage: 'https://honeybook.com',
     description: {
       en: 'HoneyBook is a clientflow management platform for independent service-based businesses.',
       fr: `HoneyBook est une plateforme de gestion de flux clients pour les entreprises de services indépendantes.`,
