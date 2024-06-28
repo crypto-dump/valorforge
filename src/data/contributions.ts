@@ -4,7 +4,7 @@ import type { ContributionProps } from '@components/structure/OpenSource/Contrib
 export const contributions: ContributionProps[] = [
   {
     user: 'Tgemayel',
-    repository: 'variable-font-plugin',
+    repository: 'variable-fonts-figma',
     role: {
       label: 'contributor',
       color: 'green',
