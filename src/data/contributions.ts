@@ -6,10 +6,10 @@ export const contributions: ContributionProps[] = [
     user: 'Tgemayel',
     repository: 'variable-font-plugin',
     role: {
-      label: 'creator',
+      label: 'contributor',
       color: 'green',
     },
-    githubUrl: 'https://github.com/Tgemayel/variable-font-plugin',
+    githubUrl: 'https://github.com/Tgemayel/variable-fonts-figma',
     description: {
       en: 'A plugin to provide basic variable fonts support through Samsa.js.',
       fr: 'Un plugin pour fournir une prise en charge de base des polices variables via Samsa.js.',
